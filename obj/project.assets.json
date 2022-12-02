@@ -7872,24 +7872,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Angel\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\yigit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Angel\\OneDrive\\Bureaublad\\Bureaublad-LAPTOP-JBJG7PSV\\GitHub\\GeoProfs-Github\\GeoProfs\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\yigit\\Source\\Repos\\GeoProfs\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\Angel\\OneDrive\\Bureaublad\\Bureaublad-LAPTOP-JBJG7PSV\\GitHub\\GeoProfs-Github\\GeoProfs\\ContosoUniversity.csproj",
-      "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Angel\\OneDrive\\Bureaublad\\Bureaublad-LAPTOP-JBJG7PSV\\GitHub\\GeoProfs-Github\\GeoProfs\\obj\\",
+      "projectPath": "C:\\Users\\yigit\\Source\\Repos\\GeoProfs\\ContosoUniversity.csproj",
+      "packagesPath": "C:\\Users\\yigit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yigit\\Source\\Repos\\GeoProfs\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\yigit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7897,7 +7892,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7972,7 +7966,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
